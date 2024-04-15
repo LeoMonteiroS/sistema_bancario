@@ -10,7 +10,7 @@ Este sistema bancário permite que os usuários realizem operações bancárias 
 - Sacar fundos
 - Verificar o extrato
 
-Os saques são limitados a R$500,00 por transação e apneas 3 transações por dia.
+Os saques são limitados a R$500,00 por transação e apenas 3 transações por dia.
 
 ## Tecnologias Utilizadas
 
@@ -19,6 +19,6 @@ Os saques são limitados a R$500,00 por transação e apneas 3 transações por 
 
 **COMO USAR:**
 ```bash
-   git clone https://github.com/LeoMonteiroS/sistema_bancario.git
+git clone https://github.com/LeoMonteiroS/sistema_bancario.git
 ```
 ![Veja como fazer](teste.gif)
